@@ -1,4 +1,4 @@
-Randomize Timer
+Randomize (Timer, 3)
 DIM DICE(4)
 
 Main:
